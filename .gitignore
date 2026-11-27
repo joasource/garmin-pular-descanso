@@ -1,3 +1,13 @@
+# Treinos e dados pessoais da Garmin: nunca versionar
 *.fit
 *.FIT
 .Intervals/
+
+# Backups gerados pelo script (-b) e temporários
+*.bak
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
