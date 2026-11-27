@@ -33,4 +33,6 @@ Arquivos que já estão corretos, ou que não têm descanso aberto, são pulados
   do Garmin Connect, e testada em um Instinct Solar 2X.
 - Treinos sem descanso aberto entre os exercícios não são alterados.
 
+Detalhes técnicos e histórico da investigação: [COMO-FUNCIONA.md](COMO-FUNCIONA.md).
+
 Os arquivos `.fit` são ignorados pelo `.gitignore` por conterem dados pessoais.
